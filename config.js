@@ -21,9 +21,9 @@ import moment from 'moment-timezone';
 const CONNECTION = 'pairing'; // qr atau pairing
 const PAIRING_CODE = 'RESBOTMD'; // kode pairing max 8 karakter (opsional)
 const OWNER_NAME = 'Autoresbot';
-const NOMOR_BOT = '628xx'; // 628xx nomor wa - 6285124002201
+const NOMOR_BOT = '6283147582506'; // 628xx nomor wa - 6285124002201
 const DESTINATION = 'group'; // group , private, both
-const APIKEY = ''; // apikey dari autoresbot.com (paket apikey)
+const APIKEY = 'apikey_reyzxx'; // apikey dari autoresbot.com (paket apikey)
 const RATE_LIMIT = 3000; // 3 detik/chat
 const SIMILARITY = true; // Pencarian kemiripan command (true, false)
 const MODE = 'production'; // [production, development] (jangan di ubah kecuali anda developer)
@@ -32,7 +32,7 @@ const VERSION = global.version; // don't edit
 const EMAIL = 'autoresbot@gmail.com';
 const REGION = 'Indonesia';
 const WEBSITE = 'autoresbot.com';
-const DATA_OWNER = ['69243815079978']; // cara ambil owner https://youtu.be/qrRXPCSFvRo?si=KOWdFhrScHN7Ugd4 
+const DATA_OWNER = ['685722715049']; // cara ambil owner https://youtu.be/qrRXPCSFvRo?si=KOWdFhrScHN7Ugd4 
 
 // Konfiqurasi Chat
 const ANTI_CALL = false; // jika true (setiap yang nelpon pribadi akan di block)
